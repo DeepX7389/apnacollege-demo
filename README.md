@@ -1,4 +1,5 @@
 # apnacollege-demo
 this is my first git repo
 <br>
-author = deepx
+author = deepx(iiitn)
+
